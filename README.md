@@ -4,4 +4,4 @@ I do not expect you to use them as they're tailored for myself, but I'm planning
 
 # Which dotfiles does the repo have?
 Currently there are dotfiles for:
-- [grub](dotifles/grub)
+- [grub](dotfiles/grub)
