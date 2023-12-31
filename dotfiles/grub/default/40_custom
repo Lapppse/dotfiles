@@ -5,6 +5,6 @@ exec tail -n +3 $0
 # the 'exec tail' line above.
 menuentry "Windows 11" --class windows --class os {
   insmod ntfs
-  search --no-floppy --set=root --fs-uuid REDACTED
+  search --no-floppy --set=root --fs-uuid [REDACTED]
   chainloader ($root)/EFI/Microsoft/Boot/bootmgfw.efi
 }
