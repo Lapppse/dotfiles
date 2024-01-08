@@ -1,0 +1,8 @@
+# Latvia
+Server = https://archlinux.koyanet.lv/archlinux/$repo/os/$arch
+
+# Poland
+Server = https://mirror.eloteam.tk/archlinux/$repo/os/$arch
+Server = https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/$repo/os/$arch
+Server = https://ftp.psnc.pl/linux/archlinux/$repo/os/$arch
+Server = https://arch.sakamoto.pl/$repo/os/$arch
