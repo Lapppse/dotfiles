@@ -5,8 +5,11 @@ but I'm planning on providing `install scripts` for some of the dotfiles.
 
 # What dotfiles does the repo have?
 Currently there are dotfiles for:
-- [grub](dotfiles/grub)
-- [nvidia drivers](dotfiles/nvidia)
+- [artix and arch mirrorlists](mirrors)
+- [grub](grub)
+- [nvidia drivers](nvidia)
+- [hyprland](hyprland)
+- [waybar](waybar)
 
 # [REDACTED]
 As some of the dotfiles contain information I don't want to share (e.g. passwords or other sensitive data), 
